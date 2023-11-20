@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+h1{
+    text-align: center;
+    color: #D80505;
+    font-family: "Playfair", cursive;
+}
+body{
+    background-color: #DBC795;
+    
+}
+h5{
+    color: #974A1F;
+    font-variant: small-caps;
+}
+.card{
+    border: 2px solid black;
+}
+.navbar{
+    background-color: #B64C4C;
+}
+#logo{
+    height: 30px;
+    width: 20px;
+}
+#banner{
+    height: 400px;
+    background-image: url(../img/banner.jpg);
+    background-position: center center;
+    background-size: cover;
+}
+
+footer{
+    background-color: #B64C4C;
+}
+footer li{
+  
+    list-style-type: none;
+    color: white;
+}
+footer li>img{
+    margin-right: 15px;
+    
+}
+.card{
+    color: #974A1F;
+    text-align: center;
+    
+}
+#home{
+    background-image: url("../img/homebg-min.jpg");
+    height: 100vh;
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: cover;
+}
+#home .intro{
+    color: white;
+    height: 100vh;
+}
+
+#home .intro .col-md-8{
+    background-color: rgba(0, 0, 0, 0.4);
+}
+hr{
+    margin: auto;
+
+}
+.modal-header-footer{
+    background-color: #B64C4C;
+}
+a{
+    text-decoration: none;
+    color: #974A1F;
+}
+a:hover{
+    box-shadow: 0px 5px grey;
+}
+.blog-img
+{
+    border: 3px solid #B64C4C;
+    border-radius: 10px;
+}
+h2{
+    color: #D80505;
+}
+.sorkizart{
+    text-align: justify;
+}
